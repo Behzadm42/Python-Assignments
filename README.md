@@ -2,55 +2,57 @@
 Python question collection from https://quera.org/dashboard
 
 Calculate the series
-https://quera.org/course/assignments/44842/problems/150479
+https://quera.org/problemset/638/
 
 Fibonacci
-https://quera.org/course/assignments/44842/problems/150486
+https://quera.org/problemset/596/
 
 First factors
-https://quera.org/course/assignments/44842/problems/150487
+https://quera.org/problemset/298/
 
 In search of father
-https://quera.org/course/assignments/44842/problems/150489
+https://quera.org/problemset/287/
 
 Length and sum of digits
-https://quera.org/course/assignments/44842/problems/150492
+https://quera.org/problemset/276/
 
 power of 2
-https://quera.org/course/assignments/44842/problems/150482
+https://quera.org/problemset/616/
 
 Presidential Election
-https://quera.org/course/assignments/44842/problems/150485
+https://quera.org/problemset/604/
 
 print number
-https://quera.org/course/assignments/44842/problems/150476
+https://quera.org/problemset/9774/
 
 Pythagorean triples
-https://quera.org/course/assignments/44842/problems/150477
+https://quera.org/problemset/654/
 
 Quadratic Equation
-https://quera.org/course/assignments/44842/problems/150488
+https://quera.org/problemset/294/
 
 Revenge from strict TA
-https://quera.org/course/assignments/44842/problems/150491
+https://quera.org/problemset/278/
 
 reverse-self number
-https://quera.org/course/assignments/44842/problems/150483
+https://quera.org/problemset/617/
 
 rhombus shape of  stars
-https://quera.org/course/assignments/44842/problems/150475
+https://quera.org/problemset/9773/
 
 See prime numbers
-https://quera.org/course/assignments/44842/problems/150487
+https://quera.org/problemset/298/
 
 Simple typo checker
-https://quera.org/course/assignments/44842/problems/150481
+https://quera.org/problemset/634/
 
 sum of numbers
-https://quera.org/course/assignments/44842/problems/150480
+https://quera.org/problemset/637/
 
 To be complete or not
-https://quera.org/course/assignments/44842/problems/150490
+https://quera.org/problemset/282/
+
+
 
 
 
